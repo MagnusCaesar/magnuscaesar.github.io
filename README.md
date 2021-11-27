@@ -8,3 +8,7 @@ I've no clue why I've one right now, but I plan on making this like a CV type th
 
 Well now that you've seen this, enjoy and make your own too   
 make sure to keep it public if you don't want to pay
+
+
+this is a test to see if image links work
+this is my schedule {{https://magnuscaesar.github.io/sched-dark}}
