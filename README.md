@@ -1,5 +1,5 @@
 # Magnus Caesar's Website
-A website   
+This is a website   
 I finally have one for myself, thank you github   
 
 Hello there! now that all the gratitude is over, welcome to my website.
