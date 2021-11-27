@@ -11,4 +11,4 @@ make sure to keep it public if you don't want to pay
 
 
 this is a test to see if image links work
-this is my schedule {{https://magnuscaesar.github.io/sched-dark}}
+this is my schedule [My sched in dark mode]{{https://magnuscaesar.github.io/sched-dark}}
