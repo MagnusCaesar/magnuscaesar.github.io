@@ -11,9 +11,6 @@ make sure to keep it public if you don't want to pay
 
 
 this is a test to see if image links work
-this is my schedule 
-
-![My sched in dark mode](https://magnuscaesar.github.io/sched-dark)
 
 Check out my [wallpapers](https://magnuscaesar.github.io/wall-dir)
 if it doesn't work, please paste https://magnuscaesar.github.io/wall-dir onto your url bar to check it out
