@@ -4,3 +4,5 @@ author: Magnus Caesar
 ---
 
 # This is a test page to check if github pages also converts rmd files
+
+$\rightarrow$ 
